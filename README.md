@@ -1,4 +1,4 @@
-# ACTaM_Project : CARPILLATOR
+# ACTaM_Project : WEB cArPP
 
 ## OBJECTIVE
 The main objective of this project is to create a web application in which the user can draw shapes and use them to control the audio buffer and the gain.
